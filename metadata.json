@@ -1,0 +1,5 @@
+{
+  "name": "CareerVision AI: Career Counseling Specialist",
+  "description": "A professional career counseling application that uses the RIASEC (Holland Codes) algorithm and Gemini AI to provide personalized job recommendations and career path analysis based on user interests.",
+  "requestFramePermissions": []
+}
